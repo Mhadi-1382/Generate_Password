@@ -4,7 +4,7 @@ A very strong password generator that can be up to 81 characters long.
 
 <img src="https://github.com/Mhadi-1382/Generate_Password/blob/main/Generate_Password01.png" alt="Generate_Password">
 
-## Screenshot:
+## Screenshot
 
 <img src="https://github.com/Mhadi-1382/Generate_Password/blob/main/Generate_Password02.png" alt="Generate_Password">
 
